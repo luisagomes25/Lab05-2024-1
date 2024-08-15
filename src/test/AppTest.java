@@ -6,10 +6,10 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
 
-import list.EstruturaElementar;
-import list.Sorter;
-import main.sorter.MergeSort;
-import main.sorter.QuickSorter;
+
+import sorter.sorter;
+import sorter.MergeSort;
+import sorter.QuickSorter;
 
 public class AppTest {
 
